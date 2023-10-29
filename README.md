@@ -1,8 +1,16 @@
-# React + Vite
+# Date-checker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> ## **Запуск проекта**
 
-Currently, two official plugins are available:
+```
+npm install - устанавка необходимых зависимостей
+npm run dev - запуск в dev режиме
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> ## **Используемые технологии**
+
+- [`React`](https://react.dev/learn) - Для создания проекта была выбрана библиотека React для более удобного и быстрого взаимодействия с DOM-элементами, в сравнении с обычным js. Также, выбор React обусловлен дальнейшим, возможным масштабированием проекта. 
+
+- [`DayJs`](https://day.js.org/docs/en/installation/installation) - Для удобной работы с датами была выбрана библиотека DayJs. Это js-библиотека которая имеет все необходимые для реализации проекта функции. 
+
+- [`Antd`](https://ant.design) - Для упрощения и ускорения работы с визуальным отображением контекта использовалась ui kit библиотека antd.
