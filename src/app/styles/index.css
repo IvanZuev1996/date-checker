@@ -1,0 +1,19 @@
+@import 'reset';
+
+body {
+    overflow: hidden;
+    font-size: 18px;
+    font-family: Montserrat, sans-serif;;
+}
+
+.app {
+    color: black;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    min-height: 100vh;
+}
+
