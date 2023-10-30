@@ -1,5 +1,5 @@
-#### **Ссылка на деплой** - [https://date-checker.netlify.app](https://date-checker.netlify.app)
-
+> ## **Деплой**
+Ссылка на деплой - [https://date-checker.netlify.app](https://date-checker.netlify.app)
 
 > ## **Запуск проекта**
 
